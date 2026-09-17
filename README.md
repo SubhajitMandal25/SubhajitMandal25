@@ -377,16 +377,17 @@ Floorplanning, placement, CTS, routing and timing closure.
 
 ---
 
-### 09 / GITHUB ACTIVITY
+### 09 / VISUALS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SubhajitMandal25&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitMandal25&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6" alt="GitHub Streak" height="165"/>
+<img src="assets/circuit-animation.gif" width="100%" alt="Animated PCB / circuit board visual" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhajitMandal25&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2EE6A6&text_color=c9d1d9" alt="Top Languages" height="165"/>
+<br/><br/>
 
-<sub>Stats are generated live by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>. If a card fails to load, it's a temporary service hiccup — refresh the page.</sub>
+<img src="assets/made-in-india-chips.jpg" width="70%" alt="Made in India Chips — SEMICON India 2025 showcase" />
+
+<sub>Made in India Chips — SEMICON India 2025 showcase</sub>
 
 </div>
 
@@ -462,3 +463,6 @@ Kolkata, India
 ────────────────────────────────────────
 
 </div>
+
+
+
