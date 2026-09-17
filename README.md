@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ HERO / ANIMATED INTRO ============ -->
-<img src="assets/circuit-animation(1).gif " width="100%" alt="Subhajit Mandal — animated circuit hero banner" />
+<img src="assets/circuit-animation.gif " width="100%" alt="Subhajit Mandal — animated circuit hero banner" />
 
 <br/>
 
