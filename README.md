@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ============ HERO / ANIMATED INTRO ============ -->
-<img src="assets/hero.gif" width="100%" alt="Subhajit Mandal — animated circuit hero banner" />
+<img src="assets/circuit-animation.gif" width="100%" alt="Subhajit Mandal — animated circuit hero banner" />
 
 <br/>
 
@@ -380,10 +380,6 @@ Floorplanning, placement, CTS, routing and timing closure.
 ### 09 / VISUALS
 
 <div align="center">
-
-<img src="assets/circuit-animation.gif" width="100%" alt="Animated PCB / circuit board visual" />
-
-<br/><br/>
 
 <img src="assets/made-in-india-chips.jpg" width="70%" alt="Made in India Chips — SEMICON India 2025 showcase" />
 
