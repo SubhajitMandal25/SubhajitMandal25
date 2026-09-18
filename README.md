@@ -1,32 +1,45 @@
 <div align="center">
 
 <!-- ============ HERO / ANIMATED INTRO ============ -->
-<img src="assets/circuit-animation.gif " width="100%" alt="Subhajit Mandal — animated circuit hero banner" />
+<img src="assets/circuit-animation.gif" width="100%" alt="Subhajit Mandal — animated circuit hero banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=32&duration=3200&pause=1200&color=2EE6A6&center=true&vCenter=true&width=780&lines=HELLO!+I'M+SUBHAJIT.;B.Tech+ECE+%E2%80%A2+VLSI+%E2%80%A2+Digital+Design;Exploring+RTL%2C+Verilog+%26+Semiconductors" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4d3e,100:2EE6A6&height=120&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=34&duration=3200&pause=1200&color=2EE6A6&center=true&vCenter=true&width=820&lines=HELLO!+I'M+SUBHAJIT+MANDAL;B.Tech+ECE+%E2%80%A2+VLSI+%E2%80%A2+Digital+Design;Designing+Silicon%2C+One+Gate+at+a+Time;RTL+%7C+Verilog+%7C+Semiconductors+%7C+FPGA" alt="Typing SVG" />
 
 <br/>
 
-`VLSI` · `RTL` · `VERILOG` · `DIGITAL DESIGN` · `SEMICONDUCTORS` · `EMBEDDED SYSTEMS`
+![VLSI](https://img.shields.io/badge/VLSI-0d1117?style=for-the-badge&labelColor=2EE6A6&color=0d1117)
+![RTL](https://img.shields.io/badge/RTL-0d1117?style=for-the-badge&labelColor=2EE6A6&color=0d1117)
+![Verilog](https://img.shields.io/badge/VERILOG-0d1117?style=for-the-badge&labelColor=2EE6A6&color=0d1117)
+![FPGA](https://img.shields.io/badge/FPGA-0d1117?style=for-the-badge&labelColor=2EE6A6&color=0d1117)
+![ASIC](https://img.shields.io/badge/ASIC-0d1117?style=for-the-badge&labelColor=2EE6A6&color=0d1117)
+![Semiconductors](https://img.shields.io/badge/SEMICONDUCTORS-0d1117?style=for-the-badge&labelColor=2EE6A6&color=0d1117)
 
 <br/>
+
+<!-- ============ PROFILE / VISITOR COUNTERS ============ -->
+<img src="https://komarev.com/ghpvc/?username=SubhajitMandal25&label=PROFILE+VIEWS&color=2EE6A6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/SubhajitMandal25?label=FOLLOWERS&style=for-the-badge&color=2EE6A6&labelColor=0d1117" alt="Followers"/>
+
+<br/><br/>
 
 <!-- ============ CONTRIBUTION SNAKE ANIMATION ============ -->
 <img src="https://raw.githubusercontent.com/SubhajitMandal25/SubhajitMandal25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
 
-<sub>↑ Live contribution snake — generated automatically via GitHub Actions (see setup notes below)</sub>
+<sub>↑ Live contribution snake — auto-generated via GitHub Actions (workflow included below)</sub>
 
 </div>
 
 <br/>
 
----
+<img src="https://raw.githubusercontent.com/SubhajitMandal25/SubhajitMandal25/main/assets/circuit-divider.svg" width="100%" alt="divider"/>
 
 <div align="center">
 
-### 01 / QUICK LINKS
+### ⚡ 01 / QUICK LINKS
 
 <a href="mailto:subhojit2152mandal@gmail.com">
   <img src="https://img.shields.io/badge/Email-2EE6A6?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/>
@@ -47,7 +60,7 @@
 
 ---
 
-### 02 / ABOUT ME
+### 🧠 02 / ABOUT ME
 
 I'm currently pursuing my B.Tech in Electronics & Communication Engineering at **Guru Nanak Institute of Technology, Kolkata** (2024 – 2028). I'm drawn to the layer where physics meets logic — the point where a bunch of transistors start behaving like decisions.
 
@@ -55,7 +68,7 @@ Most of my time outside coursework goes into VLSI, digital electronics, semicond
 
 I'm not claiming expertise here — I'm a student, and I treat these undergrad years as the foundation for a career in semiconductor engineering. Programming, digital design, HDL, and VLSI fundamentals are all things I'm actively improving at, one project at a time.
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -82,9 +95,9 @@ I'm not claiming expertise here — I'm a student, and I treat these undergrad y
 
 ---
 
-### 03 / EDUCATION
+### 🎓 03 / EDUCATION
 
-<table>
+<table width="100%">
 <tr>
 <td width="70%">
 
@@ -118,44 +131,49 @@ Guru Nanak Institute of Technology, Kolkata
 
 ---
 
-### 04 / TECH STACK
+### 🛠️ 04 / TECH STACK
 
 <div align="center">
 
-**Languages**
+**💻 Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog_HDL-2EE6A6?style=flat-square&logo=v&logoColor=0d1117)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark" height="70" alt="Languages"/>
 
-**Hardware / ECE**
+<br/><br/>
 
-![Digital Logic](https://img.shields.io/badge/Digital_Logic-1a1a2e?style=flat-square)
-![RTL](https://img.shields.io/badge/RTL-1a1a2e?style=flat-square)
-![FSM](https://img.shields.io/badge/FSM-1a1a2e?style=flat-square)
-![UART](https://img.shields.io/badge/UART-1a1a2e?style=flat-square)
-![FIFO](https://img.shields.io/badge/FIFO-1a1a2e?style=flat-square)
-![MOSFET](https://img.shields.io/badge/MOSFET-1a1a2e?style=flat-square)
-![BJT](https://img.shields.io/badge/BJT-1a1a2e?style=flat-square)
-![FPGA Fundamentals](https://img.shields.io/badge/FPGA_Fundamentals-1a1a2e?style=flat-square)
+**⚡ VLSI / Hardware**
 
-**Tools**
+<img src="https://img.shields.io/badge/Verilog_HDL-2EE6A6?style=for-the-badge&logo=v&logoColor=0d1117&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/RTL_Design-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/FSM-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/FPGA-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Icarus Verilog](https://img.shields.io/badge/Icarus_Verilog-2EE6A6?style=flat-square)
-![GTKWave](https://img.shields.io/badge/GTKWave-2EE6A6?style=flat-square)
+<br/>
+
+<img src="https://img.shields.io/badge/UART-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/FIFO-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/MOSFET-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/BJT-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/CMOS-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+
+<br/><br/>
+
+**🧰 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,matlab&theme=dark" height="70" alt="Tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Icarus_Verilog-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
+<img src="https://img.shields.io/badge/GTKWave-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
 
 </div>
 
+> 💡 *Tip: [skillicons.dev](https://skillicons.dev) icons are clickable and load live from their CDN — no assets to maintain. VLSI-specific terms (Verilog, RTL, FSM, UART, FIFO, MOSFET, BJT, CMOS, Icarus Verilog, GTKWave) use styled Shields.io badges since no standard SkillIcon exists for them yet.*
+
 ---
 
-### 05 / SKILLS & LEARNING LEVELS
+### 📊 05 / SKILLS & LEARNING LEVELS
 
 > Labels reflect honest self-assessed comfort — not measured percentages.
 > `WORKING` → can build with it · `FAMILIAR` → understand & apply with guidance · `LEARNING` → actively studying
@@ -223,10 +241,10 @@ Guru Nanak Institute of Technology, Kolkata
 
 ---
 
-### 06 / SELECTED VLSI PROJECTS
+### 🔬 06 / SELECTED VLSI PROJECTS
 
 <details open>
-<summary><b>01 · 4-Bit ALU Design</b> — <code>IN PROGRESS</code></summary>
+<summary><b>01 · 4-Bit ALU Design</b> — <code>🟡 IN PROGRESS</code></summary>
 <br/>
 
 A 4-bit arithmetic logic unit supporting core arithmetic and logic operations, built from combinational logic blocks.
@@ -241,7 +259,7 @@ A 4-bit arithmetic logic unit supporting core arithmetic and logic operations, b
 </details>
 
 <details>
-<summary><b>02 · Traffic Light Controller using FSM</b> — <code>PLANNED</code></summary>
+<summary><b>02 · Traffic Light Controller using FSM</b> — <code>⚪ PLANNED</code></summary>
 <br/>
 
 A finite state machine that sequences traffic signal states with defined timing between transitions.
@@ -256,7 +274,7 @@ A finite state machine that sequences traffic signal states with defined timing 
 </details>
 
 <details>
-<summary><b>03 · UART Transmitter & Receiver</b> — <code>PLANNED</code></summary>
+<summary><b>03 · UART Transmitter & Receiver</b> — <code>⚪ PLANNED</code></summary>
 <br/>
 
 A serial communication module implementing asynchronous transmit and receive paths with baud rate control.
@@ -271,7 +289,7 @@ A serial communication module implementing asynchronous transmit and receive pat
 </details>
 
 <details>
-<summary><b>04 · Synchronous FIFO Memory</b> — <code>PLANNED</code></summary>
+<summary><b>04 · Synchronous FIFO Memory</b> — <code>⚪ PLANNED</code></summary>
 <br/>
 
 A first-in-first-out memory buffer with synchronous read/write control and full/empty flag logic.
@@ -286,7 +304,7 @@ A first-in-first-out memory buffer with synchronous read/write control and full/
 </details>
 
 <details>
-<summary><b>05 · Digital Clock / Frequency Divider</b> — <code>PLANNED</code></summary>
+<summary><b>05 · Digital Clock / Frequency Divider</b> — <code>⚪ PLANNED</code></summary>
 <br/>
 
 A counter-based circuit that divides an input clock frequency down to a target output frequency.
@@ -302,23 +320,23 @@ A counter-based circuit that divides an input clock frequency down to a target o
 
 ---
 
-### 07 / VLSI LAB — INSIDE THE CHIP DESIGN FLOW
+### 🏗️ 07 / VLSI LAB — INSIDE THE CHIP DESIGN FLOW
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **🔲 CMOS**
 Complementary PMOS and NMOS transistor pairs — the foundation of modern digital chips.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **📝 Verilog**
 Hardware description language used to describe digital hardware behavior and structure.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **🧩 RTL Design**
 Register-transfer-level representation of digital hardware.
@@ -326,19 +344,19 @@ Register-transfer-level representation of digital hardware.
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **🔧 FPGA**
 Programmable silicon used for prototyping and testing RTL designs.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **🏗️ ASIC**
 Application-specific integrated circuit implementation.
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 **📐 Physical Design**
 Floorplanning, placement, CTS, routing and timing closure.
@@ -349,7 +367,7 @@ Floorplanning, placement, CTS, routing and timing closure.
 
 ---
 
-### 08 / VLSI ROADMAP
+### 🗺️ 08 / VLSI ROADMAP
 
 <details>
 <summary><b>View full 9-stage learning progression</b></summary>
@@ -377,7 +395,30 @@ Floorplanning, placement, CTS, routing and timing closure.
 
 ---
 
-### 09 / VISUALS
+### 📈 09 / GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhajitMandal25&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=c9d1d9&border_color=2EE6A6&hide_border=false" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhajitMandal25&layout=compact&theme=dark&bg_color=0d1117&title_color=2EE6A6&text_color=c9d1d9&border_color=2EE6A6&hide_border=false" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitMandal25&theme=dark&background=0d1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6&border=2EE6A6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitMandal25&theme=react-dark&bg_color=0d1117&color=2EE6A6&line=2EE6A6&point=ffffff&hide_border=true" width="95%" alt="Activity Graph"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SubhajitMandal25&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="95%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+### 🖼️ 10 / VISUALS
 
 <div align="center">
 
@@ -389,35 +430,7 @@ Floorplanning, placement, CTS, routing and timing closure.
 
 ---
 
-### 10 / ENGINEERING CONSOLE
-
-```bash
-subhajit@silicon:~$ whoami
-
-Subhajit Mandal
-B.Tech ECE | VLSI | Digital Design
-
-subhajit@silicon:~$ skills
-
-C • C++ • Python • Verilog • RTL • Git • Linux
-
-subhajit@silicon:~$ focus
-
-VLSI / Semiconductor Engineering
-
-subhajit@silicon:~$ roadmap
-
-Digital Logic → Verilog → RTL → Simulation
-→ Verification → FPGA → ASIC → Physical Design
-
-subhajit@silicon:~$ status
-
-Currently learning: RTL verification & testbenches
-```
-
----
-
-### 11 / CURRENTLY LEARNING
+### 📡 11 / CURRENTLY LEARNING
 
 <div align="center">
 
@@ -429,7 +442,7 @@ Currently learning: RTL verification & testbenches
 
 ---
 
-### 12 / LET'S CONNECT
+### 🤝 12 / LET'S CONNECT
 
 <div align="center">
 
@@ -443,22 +456,19 @@ Have an idea, project, or opportunity?
 
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,50:1a4d3e,100:0d1117&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-────────────────────────────────────────
-
-Built with circuits, code & curiosity.
-
 **Subhajit Mandal**
-B.Tech ECE • VLSI • Digital Design
+B.Tech ECE • VLSI • Digital Design • Kolkata, India
 
-Kolkata, India
-
-────────────────────────────────────────
+*Built with circuits, code & curiosity.*
 
 </div>
+
 
 
 
