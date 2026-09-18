@@ -399,20 +399,7 @@ Floorplanning, placement, CTS, routing and timing closure.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhajitMandal25&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=c9d1d9&border_color=2EE6A6&hide_border=false" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhajitMandal25&layout=compact&theme=dark&bg_color=0d1117&title_color=2EE6A6&text_color=c9d1d9&border_color=2EE6A6&hide_border=false" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitMandal25&theme=dark&background=0d1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6&border=2EE6A6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SubhajitMandal25&theme=react-dark&bg_color=0d1117&color=2EE6A6&line=2EE6A6&point=ffffff&hide_border=true" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SubhajitMandal25&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SubhajitMandal25&theme=dark&background=0d1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6&border=2EE6A6&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak — Total Contributions, Current Streak, Longest Streak"/>
 
 </div>
 
@@ -468,6 +455,7 @@ B.Tech ECE • VLSI • Digital Design • Kolkata, India
 *Built with circuits, code & curiosity.*
 
 </div>
+
 
 
 
