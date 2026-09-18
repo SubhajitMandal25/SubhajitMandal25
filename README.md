@@ -35,8 +35,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/SubhajitMandal25/SubhajitMandal25/main/assets/circuit-divider.svg" width="100%" alt="divider"/>
-
 <div align="center">
 
 ### ⚡ 01 / QUICK LINKS
@@ -455,6 +453,7 @@ B.Tech ECE • VLSI • Digital Design • Kolkata, India
 *Built with circuits, code & curiosity.*
 
 </div>
+
 
 
 
