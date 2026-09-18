@@ -39,7 +39,7 @@
 
 ### ⚡ 01 / QUICK LINKS
 
-<a href="mailto:subhojit2152mandal@gmail.com">
+<a href="mailto:subhajitmandal7846@gmail.com">
   <img src="https://img.shields.io/badge/Email-2EE6A6?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/subhajit-mandal-195852412" target="_blank">
@@ -166,8 +166,6 @@ Guru Nanak Institute of Technology, Kolkata
 <img src="https://img.shields.io/badge/GTKWave-2EE6A6?style=for-the-badge&labelColor=0d1117" height="55"/>
 
 </div>
-
-> 💡 *Tip: [skillicons.dev](https://skillicons.dev) icons are clickable and load live from their CDN — no assets to maintain. VLSI-specific terms (Verilog, RTL, FSM, UART, FIFO, MOSFET, BJT, CMOS, Icarus Verilog, GTKWave) use styled Shields.io badges since no standard SkillIcon exists for them yet.*
 
 ---
 
@@ -434,10 +432,17 @@ Floorplanning, placement, CTS, routing and timing closure.
 Have an idea, project, or opportunity?
 **Let's connect.**
 
-<a href="mailto:subhojit2152mandal@gmail.com">📧 Email</a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/subhajit-mandal-195852412">💼 LinkedIn</a> &nbsp;·&nbsp;
-<a href="https://github.com/SubhajitMandal25">💻 GitHub</a> &nbsp;·&nbsp;
-<a href="YOUR_PORTFOLIO_URL_HERE">🌐 Portfolio</a>
+<br/><br/>
+
+<a href="mailto:subhajitmandal7846@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2EE6A6?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/subhajit-mandal-195852412" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-2EE6A6?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
+</a>
+<a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-2EE6A6?style=for-the-badge&logoColor=0d1117" alt="Portfolio"/>
+</a>
 
 </div>
 
@@ -453,6 +458,7 @@ B.Tech ECE • VLSI • Digital Design • Kolkata, India
 *Built with circuits, code & curiosity.*
 
 </div>
+
 
 
 
